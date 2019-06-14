@@ -1,2 +1,2 @@
 # pico-color-connect
-pico-colorの開発物一覧です。
+pico-colorの回路図です。
