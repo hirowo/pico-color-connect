@@ -12,10 +12,7 @@ WS2812BのDOUTもピンに出してます。したがって、WS2812BのLEDテ�
 
 ## USBコネクタ
 
-![コネクタアサイン](https://user-images.githubusercontent.com/34668037/59828441-fdcc6b80-9375-11e9-90fd-6d423116b4a5.png)
 
-
-## ピンアサイン
 
 ATTINYのピンは全てスルーホールの出力しています。
 
