@@ -13,3 +13,9 @@ LEDが上になるように、WRITERに接続して、USBケーブルでPCと接
 
 書き込みツールはArduino as ispを選択しましょう
 ![tu-ru](https://user-images.githubusercontent.com/34668037/60884910-2b2b7b80-a289-11e9-8ca3-fadd50746144.png)
+
+ポートを選択します。正しく接続されていれば、ポート番号が出てきます。ポート番号はそれぞれ異なります。
+![po-to](https://user-images.githubusercontent.com/34668037/60885308-3f23ad00-a28a-11e9-8d02-e1a0b93f7f83.png)
+
+あとは、書き込み装置を使って書き込むを選択して書き込みましょう
+![write](https://user-images.githubusercontent.com/34668037/60885460-9b86cc80-a28a-11e9-899e-70a62af1b52e.png)
