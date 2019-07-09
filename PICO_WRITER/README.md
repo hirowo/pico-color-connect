@@ -10,3 +10,6 @@ LEDが上になるように、WRITERに接続して、USBケーブルでPCと接
 
 ボードはATtiny25/45/85を選択、ChipはATtiny85を選択しましょう
 ![CPU](https://user-images.githubusercontent.com/34668037/59552464-4f65a680-8fc2-11e9-9b10-b1e62b0e5e9e.png)
+
+書き込みツールはArduino as ispを選択しましょう
+![tu-ru](https://user-images.githubusercontent.com/34668037/60884910-2b2b7b80-a289-11e9-8ca3-fadd50746144.png)
